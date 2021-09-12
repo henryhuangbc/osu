@@ -6,7 +6,7 @@
       <strong>Beta 4.0</strong>
       {{ ' — ' }}
       {{ $t('footer.madeby') }}
-      <strong>Rodrig0v</strong>
+      <strong>henry is cool</strong>
       {{ ' — ' }}
       <a href="https://discord.gg/uncMv398ew" target="_blank"><strong>{{ $t('footer.discord') }}</strong></a>
       {{ ' — ' }}
