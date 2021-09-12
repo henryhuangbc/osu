@@ -8,9 +8,7 @@
       {{ $t('footer.madeby') }}
       <strong>henry is cool</strong>
       {{ ' — ' }}
-      <a href="https://discord.gg/uncMv398ew" target="_blank"><strong>{{ $t('footer.discord') }}</strong></a>
-      {{ ' — ' }}
-      <a href="https://www.paypal.com/donate?hosted_button_id=J4HKPQP6MPLX2" target="_blank"><strong>{{ $t('footer.donate') }}</strong></a>
+      <a href="https://google.com" target="_blank"><strong>{{ $t('footer.discord') }}</strong></a>
     </v-col>
   </v-footer>
 </template>
